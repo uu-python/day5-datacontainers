@@ -4,7 +4,7 @@ Using SciPy, Scikit-Learn and Pandas
 ## 1. Scipy
 
 ### Linear Algebra
-Hint: Have a look at the ```scipy.linalg``` [module](https://docs.scipy.org/doc/scipy/reference/linalg.html)
+Have a look at the ```scipy.linalg``` [module](https://docs.scipy.org/doc/scipy/reference/linalg.html)
 
 #### a. Define a matrix A
 ```
@@ -18,11 +18,11 @@ Hint: Have a look at the ```scipy.linalg``` [module](https://docs.scipy.org/doc/
 [1 2 3]
 ```
 
-#### c. Solve the linear system of equations $A x = b$
+#### c. Solve the linear system of equations A x = b
 
 #### d. Check that your solution is correct by plugging it into the equation
 
-#### e. Repear a-d using a random 3x3 matrix B (instead of the vector b)
+#### e. Repeat steps a-d using a random 3x3 matrix B (instead of the vector b)
 
 #### f. Solve the eigenvalue problem for the matrix A and print the eigenvalues and eigenvectors
 
@@ -32,7 +32,7 @@ Hint: Have a look at the ```scipy.linalg``` [module](https://docs.scipy.org/doc/
 
 
 ### Statistics
-Hint: Have a look at the ```scipy.stats``` [module](https://docs.scipy.org/doc/scipy/reference/stats.html)
+Have a look at the ```scipy.stats``` [module](https://docs.scipy.org/doc/scipy/reference/stats.html)
 
 #### a. Create a discrete random variable with poissonian distribution and plot its probability mass function (PMF), cummulative distribution function (CDF) and a histogram of 1000 random realizations of the variable
 
