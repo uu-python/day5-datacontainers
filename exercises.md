@@ -43,6 +43,8 @@ Hint: Have a look at the ```ttest_ind``` function
 
 
 ## 2. Scikit-Learn 
+For this exercise you need to have scikit-learn installed (you can try to install it with pip)
+
 Tutorials are taken from [https://github.com/justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
 
 #### a. Download the jupyter notebook tutorial [03_getting_started_with_iris.ipynb](https://github.com/justmarkham/scikit-learn-videos/raw/master/03_getting_started_with_iris.ipynb) and familiarize yourself with the Iris dataset and the terminology of Machine Learning
@@ -53,6 +55,8 @@ Tutorials are taken from [https://github.com/justmarkham/scikit-learn-videos](ht
 
 
 ## 3. Pandas
+For this exercise you need to have Pandas installed (you can try to install it with pip)
+
 Tutorials are taken from [https://github.com/guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises)
 
 #### a. Download the notebook [food_facts.ipynb](food_facts.ipynb) and learn how to load and display data with Pandas
