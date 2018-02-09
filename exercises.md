@@ -45,11 +45,11 @@ Hint: Have a look at the ```ttest_ind``` function
 ## 2. Scikit-Learn 
 Tutorials are taken from [https://github.com/justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
 
-#### a. Download the jupyter notebook tutorial [03_getting_started_with_iris.ipynb](https://github.com/justmarkham/scikit-learn-videos/blob/master/03_getting_started_with_iris.ipynb) and familiarize yourself with the Iris dataset and the terminology of Machine Learning
+#### a. Download the jupyter notebook tutorial [03_getting_started_with_iris.ipynb](https://github.com/justmarkham/scikit-learn-videos/raw/master/03_getting_started_with_iris.ipynb) and familiarize yourself with the Iris dataset and the terminology of Machine Learning
 
-#### b. Download the jupyter notebook tutorial [04_model_training.ipynb](https://github.com/justmarkham/scikit-learn-videos/blob/master/04_model_training.ipynb) and practice the K-nearest neighbors classification model
+#### b. Download the jupyter notebook tutorial [04_model_training.ipynb](https://github.com/justmarkham/scikit-learn-videos/raw/master/04_model_training.ipynb) and practice the K-nearest neighbors classification model
 
-#### c. Download the jupyter notebook tutorial [05_model_evaluation.ipynb](https://github.com/justmarkham/scikit-learn-videos/blob/master/05_model_evaluation.ipynb) and use different evalutaion techniqies to compare machine learning models
+#### c. Download the jupyter notebook tutorial [05_model_evaluation.ipynb](https://github.com/justmarkham/scikit-learn-videos/raw/master/05_model_evaluation.ipynb) and use different evalutaion techniqies to compare machine learning models
 
 
 ## 3. Pandas
