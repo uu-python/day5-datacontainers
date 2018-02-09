@@ -18,11 +18,11 @@ Have a look at the ```scipy.linalg``` [module](https://docs.scipy.org/doc/scipy/
 [1 2 3]
 ```
 
-#### c. Solve the linear system of equations $A x = b$
+#### c. Solve the linear system of equations A x = b
 
 #### d. Check that your solution is correct by plugging it into the equation
 
-#### e. Repear a-d using a random 3x3 matrix B (instead of the vector b)
+#### e. Repeat steps a-d using a random 3x3 matrix B (instead of the vector b)
 
 #### f. Solve the eigenvalue problem for the matrix A and print the eigenvalues and eigenvectors
 
