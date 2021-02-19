@@ -42,19 +42,8 @@ Have a look at the ```scipy.stats``` [module](https://docs.scipy.org/doc/scipy/r
 Hint: Have a look at the ```ttest_ind``` function
 
 
-## 2. Scikit-Learn 
-For this exercise you need to have scikit-learn installed (you can try to install it with pip)
 
-Tutorials are taken from [https://github.com/justmarkham/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
-
-#### a. Download the jupyter notebook tutorial [03_getting_started_with_iris.ipynb](https://github.com/justmarkham/scikit-learn-videos/raw/master/03_getting_started_with_iris.ipynb) and familiarize yourself with the Iris dataset and the terminology of Machine Learning
-
-#### b. Download the jupyter notebook tutorial [04_model_training.ipynb](https://github.com/justmarkham/scikit-learn-videos/raw/master/04_model_training.ipynb) and practice the K-nearest neighbors classification model
-
-#### c. Download the jupyter notebook tutorial [05_model_evaluation.ipynb](https://github.com/justmarkham/scikit-learn-videos/raw/master/05_model_evaluation.ipynb) and use different evalutaion techniqies to compare machine learning models
-
-
-## 3. Pandas
+## 2. Pandas
 For this exercise you need to have Pandas installed (you can try to install it with pip)
 
 Tutorials are taken from [https://github.com/guipsamora/pandas_exercises](https://github.com/guipsamora/pandas_exercises)
