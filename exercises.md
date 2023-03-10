@@ -8,9 +8,9 @@ Have a look at the ```scipy.linalg``` [module](https://docs.scipy.org/doc/scipy/
 
 #### a. Define a matrix A
 ```
-[[1 2 3]
+[[1 -2 3]
  [4 5 6]
- [7 8 9]]
+ [7 1 9]]
 ```
 
 #### b. Define a vector b
